@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy Birthday! May every day from now on bring u happiness, good health, and amazing surprises. And may we no longer be strangers, hehe :v",
+        "HAPPY BIRTHDAY MEIIIYYYYY🥳🎊!!! Makin tua aja ya lu AKWKWKAWK. Nyangka ga lu gw buat beginian? ga nyangka kan? SAMA. Gw awalnya tu cuma mau post di story kek orang2 biasanya, tapi pas lu bilang klo lu selalu deactive ig pas di hari ultahlu, jadinya gw mikir lagi mau kasi apa ke elu. Trs h-2 baru kepikiran buat kek gini AKAWKAKWKAKW. Mumet dikit tp gpp, gw sangat amat tulus membuat ini (anjay so tulus). Emmm apalagi yak..Gw berharap lu bisa jadi orang lebih baik lagi daripada hari kemarin. JANGAN ASING LAGI PLSSS, LU GA KASIAN SAMA GW APA TIAP HARI GALAU MULU!!😔. Hehe udh si itu aja keknya, klo ada tambahan nnti di chat ajah😹",
       buttonText: "Send",
     },
     {
